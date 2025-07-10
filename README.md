@@ -66,7 +66,7 @@ README.md
 
 ## ⚖️ License
 
-This project is open source and available under the MIT License or Apache 2.0 License (choose your preference).
+This project is open source and available under the MIT License or Apache 2.0 License.
 
 ## 🚀 Future Improvements
 
