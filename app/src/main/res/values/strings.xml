@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hand Over</string>
+    <string-array name="search_types"> <item>ACCT_NUM</item> <item>ID</item> </string-array>
+</resources>
